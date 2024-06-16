@@ -1,0 +1,5 @@
+example*
+*.o
+lex.yy.c
+*.zip
+subc
